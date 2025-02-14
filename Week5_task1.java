@@ -5,7 +5,7 @@ public class Week5_task1 {
     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);
-        System.out.println ("Enter the student marks: ");
+        System.out.println ("Enter the marks: ");
         double marks = input.nextDouble();
 
         if(marks >= 80 && marks <= 100)
