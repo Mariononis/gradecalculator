@@ -25,7 +25,7 @@ public class Week5_task1 {
             System.out.println("Fail");
         }
         else {
-            System.out.println("Invalid Value entered");
+            System.out.println("Invalid value entered");
             input.close();
         }
     }
