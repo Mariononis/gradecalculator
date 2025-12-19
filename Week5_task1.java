@@ -19,7 +19,7 @@ public class Week5_task1 {
             System.out.println("Merit");
         }
         else if (marks >= 40 && marks <= 49) {
-            System.out.println("pass");
+            System.out.println("Pass");
         }
         else if (marks >= 0 && marks <= 39) {
             System.out.println("Fail");
